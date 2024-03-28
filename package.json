@@ -1,0 +1,22 @@
+{
+  "name": "tea--gooddog1",
+  "version": "1.0.0",
+  "description": "Basic demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakladka4/tea--gooddog1.git"
+  },"dependencies": {
+    "tea--goodboy1": "1.0.0",
+    "tea--gooddog1": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakladka4/tea--gooddog1/issues"
+  },
+  "homepage": "https://github.com/Zakladka4/tea--gooddog1#readme"
+}
